@@ -1,12 +1,10 @@
 {
   "name": "grpc-nest-proto",
   "version": "1.0.0",
-  "description": "",
+  "description": "An ecommerce app using NESTJS GRPC",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "repository": "https://github.com/sajid-619/grpc-nest-proto.git",
+  "author": "Sajid Zaman",
+  "license": "MIT",
+  "private": false
 }
